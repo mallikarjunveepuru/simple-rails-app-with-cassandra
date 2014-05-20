@@ -1,0 +1,15 @@
+development:
+  host: <cassanra-host>
+  port: 9042
+  keyspace: <cassanra-keyspace-name>
+
+test:
+  host: <cassanra-host>
+  port: 9042
+  keyspace: <cassanra-keyspace-name>
+
+production:
+  hosts:
+    - <cassanra-host>
+  port: 9042
+  keyspace: <cassanra-keyspace-name>

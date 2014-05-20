@@ -1,0 +1,1 @@
+Simple rails 4 application to demonstrate work with Cassandra.
